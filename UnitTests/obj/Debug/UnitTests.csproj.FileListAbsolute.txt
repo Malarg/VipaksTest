@@ -1,0 +1,9 @@
+C:\Users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\UnitTests\bin\Debug\VipaksPlusTestTask.exe
+C:\Users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\UnitTests\bin\Debug\VipaksPlusTestTask.pdb
+C:\Users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\UnitTests\obj\Debug\UnitTests.pdb

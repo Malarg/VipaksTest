@@ -1,0 +1,15 @@
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\bin\Debug\VipaksPlusTestTask.exe.config
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\VipaksPlusTestTask.csprojResolveAssemblyReference.cache
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\App.g.cs
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\VipaksPlusTestTask_MarkupCompile.cache
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\bin\Debug\VipaksPlusTestTask.exe
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\bin\Debug\VipaksPlusTestTask.pdb
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\MainWindow.g.cs
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\VipaksPlusTestTask_MarkupCompile.lref
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\MainWindow.baml
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\VipaksPlusTestTask.g.resources
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\VipaksPlusTestTask.Properties.Resources.resources
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\VipaksPlusTestTask.csproj.GenerateResource.Cache
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\VipaksPlusTestTask.exe
+c:\users\malar\documents\visual studio 2015\Projects\VipaksPlusTestTask\VipaksPlusTestTask\obj\Debug\VipaksPlusTestTask.pdb
